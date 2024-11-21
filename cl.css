@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    height: 100px;
+    width: 80px;
+    background-color: rgb(46, 41, 41);
+    margin-left: 40px;
+    margin-top: 90px;
+font-weight: 700;
+    font-size: 60px;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+#background{
+    height: 400px;
+    width: 400px;
+    
+    margin-top: 180px;
+    display: flex;
+    flex-wrap: wrap;
+}
